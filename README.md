@@ -30,14 +30,4 @@
 
 ---
 
-📧 **Contacto**
-¿Tienes preguntas o sugerencias? ¡Contáctanos!
-- **Email**: [udb.edu](mailto:udb.edu)
-
-<p align="center">
-  <img src="https://media.tenor.com/zLFrBs-2_h8AAAAM/counterside-sigma.gif" alt="sip" width="300"/>
-</p>
-
----
-
 ¡Gracias por visitar INVESTIGACION 2 DSM, que lo disfrutes! ❤️❤️❤️
