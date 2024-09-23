@@ -5,6 +5,10 @@
 </p>
 
 ---
+## 🚀 **Enlace ** 💻
+**Enlace**: [Video]([mailto:udb.edu](https://www.youtube.com/watch?v=NHKQD4Mj49o))
+
+---
 
 ## 🚀 **Tecnologías Utilizadas** 💻
 - **Lenguaje**: Kotlin 🧑‍💻
