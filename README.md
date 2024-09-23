@@ -6,7 +6,7 @@
 
 ---
 ## 🚀 **Enlace ** 💻
-**Enlace**: https://youtu.be/NHKQD4Mj49o
+**Enlace del video**: https://youtu.be/NHKQD4Mj49o
 <p align="center">
   <img src="https://i.pinimg.com/originals/11/44/7f/11447fc83ca8e179bbf199028daace43.gif" alt="Animación del menú" width="400"/>
 </p>
