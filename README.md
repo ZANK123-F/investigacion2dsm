@@ -15,6 +15,9 @@
 - **Diseño de interfaces**: XML 🎨
 - **Librerías**: Android SDK.
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7a/88/b2/7a88b279dafb4481549b9feafc1a5f7e.gif" alt="Animación del menú" width="200"/>
+</p>
 ---
 
 ## 👥 **Integrantes del equipo** 👥
