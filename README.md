@@ -11,8 +11,7 @@
 ---
 
 ## 🚀 **Tecnologías Utilizadas** 💻
-- **Lenguaje**: Kotlin 🧑‍💻
-- **Base de Datos**: SQLite 🗄️
+- **Lenguaje**: Kotlin y APIs (JSONPlaceholder)🧑‍💻
 - **Diseño de interfaces**: XML 🎨
 - **Librerías**: Android SDK.
 
