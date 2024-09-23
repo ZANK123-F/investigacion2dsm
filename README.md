@@ -1,4 +1,4 @@
-# 🌮✨ ¡Bienvenidos a **INVESTIGACION 2 DSM**! 🎉🍽️
+# ✨ ¡Bienvenidos a **INVESTIGACION 2 DSM**! 🎉🍽
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/68/b0/5e/68b05ecaaeb60c2c667f4c2c5d3c3006.gif" alt="Comida mexicana" width="200"/>
