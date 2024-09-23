@@ -6,7 +6,7 @@
 
 ---
 ## 🚀 **Enlace ** 💻
-**Enlace**: [Video]([mailto:udb.edu](https://www.youtube.com/watch?v=NHKQD4Mj49o))
+**Enlace**: https://youtu.be/NHKQD4Mj49o
 
 ---
 
