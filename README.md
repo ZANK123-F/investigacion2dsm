@@ -7,9 +7,11 @@
 ---
 ## 🚀 **Enlace ** 💻
 **Enlace**: https://youtu.be/NHKQD4Mj49o
+<p align="center">
+  <img src="https://i.pinimg.com/originals/11/44/7f/11447fc83ca8e179bbf199028daace43.gif" alt="Animación del menú" width="400"/>
+</p>
 
 ---
-
 ## 🚀 **Tecnologías Utilizadas** 💻
 - **Lenguaje**: Kotlin y APIs (JSONPlaceholder)🧑‍💻
 - **Diseño de interfaces**: XML 🎨
@@ -18,8 +20,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/7a/88/b2/7a88b279dafb4481549b9feafc1a5f7e.gif" alt="Animación del menú" width="200"/>
 </p>
----
 
+---
 ## 👥 **Integrantes del equipo** 👥
 - **Franly Azael Marroquin Carmona MC230204**💻
 - **Katherine Yamileth Flores Avila FA231908**💻
